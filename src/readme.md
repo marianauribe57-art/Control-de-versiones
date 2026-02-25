@@ -77,3 +77,7 @@ Para comprobar los commits realizados, ejecutar:
 git log --oneline -4
 
 El resultado debe mostrar cuatro commits claros, organizados y atómicos.
+
+
+crear rama y trabajar en ella... clase 4 PRUEBA
+Realiza cambios pequeños Haz commits atómicos y enfocados en un solo propósito
